@@ -27,10 +27,9 @@ Your browser should automatically open localhost:3000 Enjoy the app!
 - React
 - Redux
 - Axios
-- react-dom
 - redux-thunk
-- styled-components
-
+- react-router-dom
+- Bootstrap
 
 
 
