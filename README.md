@@ -29,15 +29,6 @@ npm start
 
 Your browser should automatically open localhost:3000 Enjoy the app!
 
-You can follow the below commands to test and run the app.
-
-- `npm start` - dev server
-
-- `npm run build` - output to directory to run on a web server
-
-- `npm run test` - run tests via `jest`
-
-
 
 ## Technologies used
 
