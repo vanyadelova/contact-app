@@ -2,15 +2,7 @@
 ## [ 📘 Check out the deployed version here! 📘](https://currency-converterapp.netlify.com/)
 
 ## What this project is about
-This is my own attempt at the AB Solutions's coding challenge. The task is to create a simple react application, which will get data asynchronously from a public API through a js http client of my choise (e.g axios, request, fetch...), contain the data with the help of redux and visualize it in a user-friendly way. The app includes the following features:
-
-- **Tests**
-- **Readme**
-- **Working code**
-- **Nice commit messages**
-- **Multiple-selection of currencies**
-- **Users can type search the curreency they need**
-
+This is my own attempt at the Acasus's coding challenge. The task is to create a simpe CRUD application. I use React and Redux to create contact management app (like address book). I use [JSONPlaceholder](https://jsonplaceholder.typicode.com/) data for the contacts: https://jsonplaceholder.typicode.com/users
 
 
 ## Run it locally 🖥
