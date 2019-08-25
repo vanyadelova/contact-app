@@ -9,12 +9,12 @@ This is my own attempt at the Acasus's coding challenge. The task is to create a
 
 Clone the repository.
 ```
-$ git clone https://github.com/vanyadelova/currency-converter-app.git
+$ git clone https://github.com/vanyadelova/contact-app.git
 ```
 Install project dependencies and start the app.
 
 ```
-cd currency-converter-app
+cd contact-app
 npm install
 npm start
 ```
