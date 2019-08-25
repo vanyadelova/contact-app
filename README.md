@@ -1,5 +1,5 @@
 # 📖  Contact App 📖 
-## [ 📘 Check out the deployed version here! 📘](https://currency-converterapp.netlify.com/)
+## [ 📘 Check out the deployed version here! 📘](https://compassionate-turing-856930.netlify.com/)
 
 ## What this project is about
 This is my own attempt at the Acasus's coding challenge. The task is to create a simpe CRUD application. I use React and Redux to create contact management app (like address book). I use [JSONPlaceholder](https://jsonplaceholder.typicode.com/) data for the contacts: https://jsonplaceholder.typicode.com/users
